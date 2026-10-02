@@ -1,0 +1,7 @@
+{
+  "name": "Boiling Point Reforger - Mission Script Manager",
+  "description": "Enforce Script Entwicklungs- und Code-Explorer für das Arma Reforger Missionsprojekt Boiling Point Reforger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
